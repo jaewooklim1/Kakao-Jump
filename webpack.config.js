@@ -1,7 +1,7 @@
 module.exports = {
-  entry: "./lib/hophop.js",
+  entry: "./lib/bundle.js",
   output: {
-  	filename: "./lib/bundle.js"
+    filename: "./lib/bundle.js",
   },
-  devtool: 'source-map',
+  devtool: "source-map",
 };
