@@ -34,10 +34,14 @@ Javascript
 
 The game logic is entirely coded in Object-Oriented Javascript.
 
-https://i.imgur.com/nh56IJf.png
+![]https://i.imgur.com/nh56IJf.png
 
 HTML Canvas
 
-https://i.imgur.com/Y68KeS0.png
+![]https://i.imgur.com/Y68KeS0.png
 
-https://i.imgur.com/1liMf2c.png
+![]https://i.imgur.com/1liMf2c.png
+
+## Future Additions
+
+In the future, I would like to add a character selection screen as well as different levels.
